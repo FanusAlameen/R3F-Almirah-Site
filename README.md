@@ -41,7 +41,7 @@ Check out the live demo [here](https://r3f-almirah-site.netlify.app/).
 
 ## Usage
 
-- Use the mouse to interact with the almirah model. Click over the model to open its doors and Click and hold on the model to rotate it.
+- Use the mouse to interact with the almirah model. Click or Hover over the model to open its doors and Click and hold on the model to rotate it.
 
 ## Contributing
 
