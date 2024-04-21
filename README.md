@@ -54,4 +54,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Note
-The 3D model of the almirah and the images used in this project are for demonstration purposes only and are not meant for public use or distribution. Please respect the intellectual property rights associated with these assets.
+The 3D model of the almirah and all images used in this project were created using Blender. These assets are for demonstration purposes only and are not meant for public use or distribution. Please respect the intellectual property rights associated with these assets.
