@@ -35,7 +35,7 @@ Check out the live demo [here](https://r3f-almirah-site.netlify.app/).
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
    Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
