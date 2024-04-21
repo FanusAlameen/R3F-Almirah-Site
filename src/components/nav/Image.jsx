@@ -9,7 +9,7 @@ const Image = ({src, selectedLink}) => {
      animate={selectedLink.isActive ? "open" : "closed"} 
      className='lg:w-1/2 lg:mt-0 lg:h-[500px] block mb-8 relative sm:w-full sm:h-[200px]' >
         <img 
-        src={`/public/images/${src}`}
+        src={`/images/${src}`}
         alt="image"
         className='object-cover'
         />
