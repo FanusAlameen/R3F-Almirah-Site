@@ -55,9 +55,9 @@ const About = () => {
           className="min-h-[50vh] bg-[#f4f0ea] px-12 py-12 flex flex-col gap-4 justify-center items-center cursor-pointer"
           id="about"
         >
-          <div className="w-full flex flex-row flex-wrap justify-between items-start">
-            <div className="my-8 w-1/4 flex flex-col gap-4 md:items-start sm:items-center">
-              <p className="font-roboto font-bold text-xl text-[#204365]">
+          <div className="w-full flex flex-row flex-wrap justify-between items-center">
+            <div className="my-8 w-1/3 flex flex-col gap-4 md:items-start sm:items-center">
+              <p className="font-roboto font-bold text-xl text-[#204365] w-[300px]">
                 Ready to elevate your space with our exquisite steel Almirahs ?
               </p>
               <a
@@ -75,7 +75,16 @@ const About = () => {
               </a>
             </div>
 
-            <div className="my-8 flex flex-col items-end">
+            <div className="self-center w-1/3 flex items-center justify-center">
+              <div className="w-[150px] h-[150px] self-center">
+                <img
+                  className="object-cover"
+                  src="/images/aishwarya-steel-logo.png"
+                />
+              </div>
+            </div>
+
+            <div className="my-8 flex flex-col items-end w-1/3">
               {links.map((eachLink, index) => (
                 <a
                   key={index}
