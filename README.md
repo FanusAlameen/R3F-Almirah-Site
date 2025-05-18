@@ -4,7 +4,7 @@ Welcome to the R3F Almirah App, a web application showcasing a functional almira
 
 ## Live Demo
 
-Check out the live demo [here](https://r3f-almirah-site.netlify.app/).
+Check out the live demo [here](https://aishwaryasteelcorporation.netlify.app/).
 
 ## Features
 
